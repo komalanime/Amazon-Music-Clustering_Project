@@ -48,7 +48,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit.
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
+http://localhost:8501/
 
 
 ## Project Files
@@ -66,5 +66,5 @@ Amazon Music Clustering/
 ## Conclusion
 
 The project demonstrates how unsupervised machine learning can discover groups of songs with similar audio characteristics.
-The project demonstrates how unsupervised machine learning can discover groups of songs with similar audio characteristics.
+
 
